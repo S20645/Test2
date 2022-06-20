@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\mikol\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\mikol\\.nuget\\packages",
+      "D:\\Visual studio 2019\\SDK\\NuGetPackages"
+    ]
+  }
+}
